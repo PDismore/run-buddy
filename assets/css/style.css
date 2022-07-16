@@ -59,7 +59,7 @@ header {
 
   footer div {
     float: right;
-    line-height: l.5;
+    line-height: 1.5;
     text-align: right;
   }
   
@@ -80,13 +80,6 @@ header {
   position: relative;
 }
 /* Hero Style End */
-
-.hero-form {
-  background-color: #fce138;
-  padding: 20px;
-  width: 500px;
-  color: #024e76;
-}
 
 .hero-form {
   border: 3px solid #024e76;
